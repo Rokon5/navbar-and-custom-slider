@@ -1,0 +1,26 @@
+.cc_prev {
+    bottom: 5% !important;
+    left: 89% !important;
+}
+
+.cc_next {
+    bottom: 5% !important;
+    right: 1% !important;
+}
+
+.cc_prev, .cc_next {
+    top: 85%; 
+    width: 5%;   
+}
+
+
+.custom_indicators {
+    right: 78%;
+    bottom: 60%;
+    left: auto;
+    display: block;
+}
+.custom_button {
+    width: 30px !important;
+    height: 19px !important;
+}
